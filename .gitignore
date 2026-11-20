@@ -57,3 +57,5 @@ wheels/
 *.pt
 *.bin
 *.onnx
+
+.vite/
